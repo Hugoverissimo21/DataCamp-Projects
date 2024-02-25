@@ -10,4 +10,4 @@ Here, you can find some projects I completed from DataCamp.
   
     -   Utilized Python with pandas and seaborn to analyze financial data from XLSX files.
     -   Calculated key financial ratios (leverage ratio and profitability ratio).
-    -   Explored the relationship between leverage and profitability for a specific company type ("real_est")through a scatter plot, finding a positive correlation.
+    -   Explored the relationship between leverage and profitability for a specific company type ("real_est") through a scatter plot, finding a positive correlation.
