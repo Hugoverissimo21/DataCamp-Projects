@@ -18,6 +18,8 @@ Here, you can find some projects I completed from DataCamp.
     -   Created logistic regression models for each column in the dataset, calculating the accuracy of each model in predicting the 'outcome' variable.
     -   Identified the most accurate model by employing DataFrame transformations.
 
-4) [Analyze International Debt Statistics]()
+4) [Analyze International Debt Statistics](https://hugoverissimo21.github.io/DataCamp-Projects/Analyze%20International%20Debt%20Statistics/notebook.html)
 
-    -   la la
+    -   Used SQL to obtain the total count of unique countries in the "international_debt" dataset, providing an overview of the dataset's geographical diversity.
+    -   Extracted a list of unique debt indicators from the dataset, offering a concise summary of the different financial metrics considered.
+    -   Calculated the overall sum of debt across the dataset, presenting the total debt in a more readable format in millions.
