@@ -17,3 +17,7 @@ Here, you can find some projects I completed from DataCamp.
     -   Utilized R with readr and dplyr to manipulate data from a CSV file.
     -   Created logistic regression models for each column in the dataset, calculating the accuracy of each model in predicting the 'outcome' variable.
     -   Identified the most accurate model by employing DataFrame transformations.
+
+4) [Analyze International Debt Statistics]()
+
+    -   la la
