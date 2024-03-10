@@ -23,3 +23,7 @@ Here, you can find some projects I completed from DataCamp.
     -   Used SQL to obtain the total count of unique countries in the "international_debt" dataset, providing an overview of the dataset's geographical diversity.
     -   Extracted a list of unique debt indicators from the dataset, offering a concise summary of the different financial metrics considered.
     -   Calculated the overall sum of debt across the dataset, presenting the total debt in a more readable format in millions.
+
+5) [Analyzing TV Data](https://hugoverissimo21.github.io/DataCamp-Projects/Analyze%20International%20Debt%20Statistics/notebook.html)
+
+    -   
