@@ -24,6 +24,6 @@ Here, you can find some projects I completed from DataCamp.
     -   Extracted a list of unique debt indicators from the dataset, offering a concise summary of the different financial metrics considered.
     -   Calculated the overall sum of debt across the dataset, presenting the total debt in a more readable format in millions.
 
-5) [Analyzing TV Data](https://hugoverissimo21.github.io/DataCamp-Projects/Analyze%20International%20Debt%20Statistics/notebook.html)
+5) [Analyzing TV Data](https://github.com/Hugoverissimo21/DataCamp-Projects/tree/main/Analyzing%20TV%20Data)
 
     -   
